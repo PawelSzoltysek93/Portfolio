@@ -18,10 +18,10 @@ export const ProjectsSection = () => {
       id: 2,
       title: "JobTracker",
       description: t("projects.items.jobtracker.description"),
-      image: "/projects/project2.webp",
+      image: "/projects/project2.png",
       tags: ["Next.Js", "TypeScipt", "SupaBase"],
-      demoUrl: "#",
-      githubURl: "#",
+      demoUrl: "https://job-tracking-app-phi.vercel.app/",
+      githubURl: "https://github.com/PawelSzoltysek93/JobTracker",
     },
     {
       id: 3,
