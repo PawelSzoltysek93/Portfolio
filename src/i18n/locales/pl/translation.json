@@ -64,6 +64,10 @@
       "redesign": {
         "title": "Projekt Re-design",
         "description": "Projekt w którym moim zadaniem było przebudowanie starej strony internetowej z nowoczesnym wyglądem i ulepszonym doświadczeniem użytkownika przy użyciu nowych technologii takich jak React i Next.js."
+      },
+      "elitedogtreats": {
+        "title": "Elite Dog Treats",
+        "description": "W pełni funkcjonalny sklep internetowy stworzony w Next.js, z listą produktów, koszykiem oraz bezpiecznym procesem płatności. Byłem odpowiedzialny za integrację backendu, wdrożenie systemu płatności oraz mechanikę logowania i autoryzacji. Projekt pokazuje moje umiejętności łączenia frontendu z backendem, zarządzania sesjami użytkowników oraz zapewnienia płynnego i bezpiecznego doświadczenia użytkownika."
       }
     }
   },

@@ -4,10 +4,9 @@ import { useTranslation } from "react-i18next";
 export const ProjectsSection = () => {
   const { t } = useTranslation();
 
-  // Przenieś projects do środka komponentu, żeby mieć dostęp do t()
   const projects = [
     {
-      id: 1,
+      id: 5,
       title: "CryptoTraderJS",
       description: t("projects.items.cryptotrader.description"),
       image: "/projects/cryptotraderjs.png",
@@ -41,8 +40,19 @@ export const ProjectsSection = () => {
       demoUrl: "#",
       githubURl: "https://github.com/PawelSzoltysek93/Next-js-redesign-project",
     },
+    {
+      id: 1,
+      title: "Elite Dog Treats",
+      description: t("projects.items.elitedogtreats.description"),
+      image: "/projects/elitedogtreats.png",
+      tags: ["TypeScript", "Supabase", "Next.Js"],
+      demoUrl: "https://nextjs-final-e-commerce-project.vercel.app/",
+      githubURl:
+        "https://github.com/PawelSzoltysek93/EliteDogTreats-E-commerce",
+    },
   ];
 
+  const sortedProjects = [...projects].sort((a, b) => a.id - b.id);
   return (
     <section id="projects" className="py-24 px-4 relative ">
       <div className="container mx-auto max-w-5xl overflow-hidden">
@@ -56,7 +66,7 @@ export const ProjectsSection = () => {
           {t("projects.subtitle")}
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {projects.map((project, key) => (
+          {sortedProjects.map((project, key) => (
             <div
               key={key}
               className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
