@@ -11,13 +11,13 @@ export const Footer = () => {
           &copy; {new Date().getFullYear()} {t("footer.createdBy")}
         </p>
         <a
-          href="#"
+          href="/legal"
           className="text-sm text-muted-foreground hover:text-primary"
         >
           {t("footer.legal")}
         </a>
         <a
-          href="#"
+          href="/privacy"
           className="text-sm text-muted-foreground hover:text-primary"
         >
           {t("footer.privacy")}

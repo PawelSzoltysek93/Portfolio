@@ -64,6 +64,10 @@
       "redesign": {
         "title": "Projekt Re-design",
         "description": "Projekt w którym moim zadaniem było przebudowanie starej strony internetowej z nowoczesnym wyglądem i ulepszonym doświadczeniem użytkownika przy użyciu nowych technologii takich jak React i Next.js."
+      },
+      "elitedogtreats": {
+        "title": "Elite Dog Treats",
+        "description": "W pełni funkcjonalny sklep internetowy stworzony w Next.js, z listą produktów, koszykiem oraz bezpiecznym procesem płatności. Byłem odpowiedzialny za integrację backendu, wdrożenie systemu płatności oraz mechanikę logowania i autoryzacji. Projekt pokazuje moje umiejętności łączenia frontendu z backendem, zarządzania sesjami użytkowników oraz zapewnienia płynnego i bezpiecznego doświadczenia użytkownika."
       }
     }
   },
@@ -93,6 +97,14 @@
       "success": "Wiadomość wysłana — sprawdź swoją skrzynkę e-mail w celu potwierdzenia.",
       "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie później."
     }
+  },
+  "legal": {
+    "title": "Informacje Prawne",
+    "content": "Dane zgodnie z § 5 TMG (niemiecka ustawa o telemediach):\n\nPawel Szoltysek\nErkelenz, Nadrenia Północna-Westfalia, Niemcy\nE-mail: pawel.szoltysek.dev@gmail.com\n\nOdpowiedzialny za treść zgodnie z § 55 ust. 2 RStV: Pawel Szoltysek\n\nWyłączenie odpowiedzialności: Pomimo starannej kontroli nie ponoszę odpowiedzialności za treści zewnętrznych linków. Za treść powiązanych stron odpowiadają wyłącznie ich operatorzy.\n\nPrawa autorskie: Treści i dzieła stworzone przez operatora tej strony podlegają niemieckiemu prawu autorskiemu. Powielanie, przetwarzanie, rozpowszechnianie i wszelkiego rodzaju wykorzystanie poza granicami prawa autorskiego wymaga pisemnej zgody autora."
+  },
+  "privacy": {
+    "title": "Polityka Prywatności",
+    "content": "1. Administrator danych\nPawel Szoltysek, Erkelenz, Niemcy, e-mail: pawel.szoltysek.dev@gmail.com\n\n2. Gromadzenie i przetwarzanie danych osobowych\nDane osobowe (np. imię, adres e-mail) są zbierane tylko wtedy, gdy podasz je w formularzu kontaktowym. Dane te są wykorzystywane wyłącznie do obsługi Twojego zapytania.\n\n3. Korzystanie z EmailJS\nDo obsługi formularza kontaktowego wykorzystywany jest serwis EmailJS (Wielka Brytania). Obowiązują zasady ochrony danych EmailJS.\n\n4. Przechowywanie preferencji\nDo zapisywania ustawień języka i motywu wykorzystywany jest localStorage.\n\n5. Twoje prawa\nMasz prawo do informacji, sprostowania, usunięcia i ograniczenia przetwarzania swoich danych oraz prawo do przenoszenia danych. Możesz się ze mną skontaktować w każdej chwili.\n\n6. Okres przechowywania\nTwoje dane są przechowywane tylko tak długo, jak jest to konieczne do obsługi zapytania.\n\n7. Przekazywanie danych\nDane nie są przekazywane osobom trzecim, z wyjątkiem obsługi zapytania przez EmailJS.\n\n8. Prawo do skargi\nMasz prawo złożyć skargę do organu nadzorczego.\n\n9. Cookies\nTa strona nie używa plików cookies śledzących. Wykorzystywane są wyłącznie technicznie niezbędne cookies/localStorage."
   },
   "footer": {
     "createdBy": "Stworzone przez Paweł Szołtysek",
