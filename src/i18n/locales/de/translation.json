@@ -103,5 +103,13 @@
     "legal": "Impressum",
     "privacy": "Datenschutzerklärung",
     "backToTop": "Nach oben"
+  },
+  "legal": {
+    "title": "Impressum",
+    "content": "Angaben gemäß § 5 TMG:\n\nPawel Szoltysek\nErkelenz, Nordrhein-Westfalen, Deutschland\nE-Mail: pawel.szoltysek.dev@gmail.com\n\nVerantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Pawel Szoltysek\n\nHaftungsausschluss: Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\nUrheberrecht: Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "content": "1. Verantwortlicher\nPawel Szoltysek, Erkelenz, Deutschland, E-Mail: pawel.szoltysek.dev@gmail.com\n\n2. Erhebung und Verarbeitung personenbezogener Daten\nPersonenbezogene Daten (z.B. Name, E-Mail-Adresse) werden nur erhoben, wenn Sie diese im Kontaktformular angeben. Die Daten werden ausschließlich zur Bearbeitung Ihrer Anfrage verwendet.\n\n3. Nutzung von EmailJS\nFür die Übermittlung von Kontaktformularen wird der Dienst EmailJS genutzt. Die eingegebenen Daten werden an EmailJS (Vereinigtes Königreich) übermittelt. Es gelten die Datenschutzbestimmungen von EmailJS.\n\n4. Speicherung von Präferenzen\nZur Speicherung Ihrer Spracheinstellungen und des gewählten Designs wird localStorage verwendet.\n\n5. Ihre Rechte\nSie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie das Recht auf Datenübertragbarkeit. Sie können sich jederzeit an mich wenden.\n\n6. Dauer der Speicherung\nIhre Daten werden nur so lange gespeichert, wie es für die Bearbeitung Ihrer Anfrage erforderlich ist.\n\n7. Weitergabe an Dritte\nEine Weitergabe Ihrer Daten an Dritte erfolgt nicht, außer zur Bearbeitung Ihrer Anfrage über EmailJS.\n\n8. Beschwerderecht\nSie haben das Recht, sich bei einer Aufsichtsbehörde zu beschweren.\n\n9. Cookies\nDiese Website verwendet keine Tracking-Cookies. Es werden nur technisch notwendige Cookies/LocalStorage verwendet."
   }
 }

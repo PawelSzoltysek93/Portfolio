@@ -102,8 +102,13 @@
     "legal": "Legal Notice",
     "privacy": "Privacy Policy",
     "backToTop": "Back to top"
+  },
+  "legal": {
+    "title": "Legal Notice",
+    "content": "Information according to § 5 TMG (German Telemedia Act):\n\nPawel Szoltysek\nErkelenz, North Rhine-Westphalia, Germany\nEmail: pawel.szoltysek.dev@gmail.com\n\nResponsible for content according to § 55 Abs. 2 RStV: Pawel Szoltysek\n\nDisclaimer: Despite careful content control, I assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.\n\nCopyright: The content and works created by the site operator on these pages are subject to German copyright law. Duplication, processing, distribution, and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "1. Data Controller\nPawel Szoltysek, Erkelenz, Germany, email: pawel.szoltysek.dev@gmail.com\n\n2. Collection and Processing of Personal Data\nPersonal data (e.g., name, email address) is only collected if you provide it via the contact form. The data is used solely to process your inquiry.\n\n3. Use of EmailJS\nThe contact form uses the EmailJS service (United Kingdom). The privacy policy of EmailJS applies.\n\n4. Storage of Preferences\nYour language and theme preferences are stored using localStorage.\n\n5. Your Rights\nYou have the right to access, rectify, erase, and restrict the processing of your data as well as the right to data portability. You can contact me at any time.\n\n6. Storage Duration\nYour data is stored only as long as necessary to process your inquiry.\n\n7. Disclosure to Third Parties\nYour data will not be disclosed to third parties, except for processing your inquiry via EmailJS.\n\n8. Right to Lodge a Complaint\nYou have the right to lodge a complaint with a supervisory authority.\n\n9. Cookies\nThis website does not use tracking cookies. Only technically necessary cookies/localStorage are used."
   }
-
-
-
 }
